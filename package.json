@@ -31,17 +31,18 @@
     "format": "prettier --write README.md",
     "prepare": "husky install",
     "pre-commit": "lint-staged",
-    "pre-push": "lint-staged"
+    "pre-push": "lint-staged",
+    "lint-staged": "lint-staged"
   },
   "dependencies": {
     "prettier": "3.3.3"
   },
   "devDependencies": {
     "husky": "^8.0.0",
-    "lint-staged": "^15.2.10"
+    "lint-staged": "15.2.10"
   },
   "lint-staged": {
-    "**/*.{md}": [
+    "**/*": [
       "npm run format"
     ]
   }
