@@ -2,7 +2,17 @@
 
 [//]: # "[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)"
 
-Explore top talents worldwide.
+### Explore top talents worldwide.
+
+- _Name_ - full name
+- _Position (+ years)_ - your position (+ experience in years)
+- - _Skills (up to 10)_ - skills, up to 10
+- - _CV/Resume_ - link to CV/Resume
+- - _LinkedIn_ - link to LinkedIn
+- - _GitHub_ - link to GitHub
+- - _Twitter_ - link to Twitter
+- - _Portfolio_ - link to Portfolio (website)
+- - _NPM_ - link to NPM
 
 ## Table of Contents
 
