@@ -11,15 +11,15 @@ Explore top talents worldwide.
 
 ## CTO
 
-| Name             | Position                                           | Skills (up to 10)                                                           | CV/Resume                                   | LinkedIn                                     | GitHub                               | Twitter                         | Portfolio                                   | NPM                                 |
-| ---------------- | -------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------- | -------------------------------------------- | ------------------------------------ | ------------------------------- | ------------------------------------------- | ----------------------------------- |
+| Name             | Position (+ years)                                 | Skills (up to 10)                                                           | CV/Resume                                   | LinkedIn                                     | GitHub                               | Twitter                         | Portfolio                                   | NPM                                 |
+| ---------------- |----------------------------------------------------| --------------------------------------------------------------------------- | ------------------------------------------- | -------------------------------------------- | ------------------------------------ | ------------------------------- | ------------------------------------------- | ----------------------------------- |
 | Dmitrii Selikhov | CTO, Software Architect, Technical Lead (15 years) | Rect.js, Next.js, Vue.js, Nuxt.js, Node.js, Nest.js, Go, Rust, Crypto, Web3 | [link](https://dmitrii-selikhov.vercel.app) | [link](https://www.linkedin.com/in/dimetrix) | [link](https://github.com/idimetrix) | [link](https://x.com/idimetrix) | [link](https://dmitrii-selikhov.vercel.app) | [link](https://npmjs.com/~dimetrix) |
 
 ## Full_Stack
 
 | Name             | Position                                           | Skills (up to 10)                                                           | CV/Resume                                   | LinkedIn                                     | GitHub                               | Twitter                         | Portfolio                                   | NPM                                 |
 | ---------------- | -------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------- | -------------------------------------------- | ------------------------------------ | ------------------------------- | ------------------------------------------- | ----------------------------------- |
-| Dmitrii Selikhov | CTO, Software Architect, Technical Lead (15 years) | Rect.js, Next.js, Vue.js, Nuxt.js, Node.js, Nest.js, Go, Rust, Crypto, Web3 | [link](https://dmitrii-selikhov.vercel.app) | [link](https://www.linkedin.com/in/dimetrix) | [link](https://github.com/idimetrix) | [link](https://x.com/idimetrix) | [link](https://dmitrii-selikhov.vercel.app) | [link](https://npmjs.com/~dimetrix) |
+| Dmitrii Selikhov | Lead Full-Stack software engineer (15 years) | Rect.js, Next.js, Vue.js, Nuxt.js, Node.js, Nest.js, Go, Rust, Crypto, Web3 | [link](https://dmitrii-selikhov.vercel.app) | [link](https://www.linkedin.com/in/dimetrix) | [link](https://github.com/idimetrix) | [link](https://x.com/idimetrix) | [link](https://dmitrii-selikhov.vercel.app) | [link](https://npmjs.com/~dimetrix) |
 
 ## 📝 License
 
