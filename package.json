@@ -42,7 +42,7 @@
   },
   "lint-staged": {
     "**/*.{md}": [
-      "pnpm run format"
+      "npm run format"
     ]
   }
 }
