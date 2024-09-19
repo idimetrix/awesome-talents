@@ -6,13 +6,13 @@
 
 - _Name_ - full name
 - _Position (+ years)_ - your position (+ experience in years)
-- - _Skills (up to 10)_ - skills, up to 10
-- - _CV/Resume_ - link to CV/Resume
-- - _LinkedIn_ - link to LinkedIn
-- - _GitHub_ - link to GitHub
-- - _Twitter_ - link to Twitter
-- - _Portfolio_ - link to Portfolio (website)
-- - _NPM_ - link to NPM
+- _Skills (up to 10)_ - skills, up to 10
+- _CV/Resume_ - link to CV/Resume
+- _LinkedIn_ - link to LinkedIn
+- _GitHub_ - link to GitHub
+- _Twitter_ - link to Twitter
+- _Portfolio_ - link to Portfolio (website)
+- _NPM_ - link to NPM
 
 ## Table of Contents
 
