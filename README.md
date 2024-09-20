@@ -26,14 +26,14 @@
 
 | Name             | Position (+ years)                                 | Skills (up to 10)                                                           | CV/Resume                                   | LinkedIn                                     | GitHub                               | Twitter                         | Portfolio                                   | NPM                                 |
 | ---------------- | -------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------- | -------------------------------------------- | ------------------------------------ | ------------------------------- | ------------------------------------------- | ----------------------------------- |
-| Dmitrii Selikhov | CTO, Software Architect, Technical Lead (15 years) | Rect.js, Next.js, Vue.js, Nuxt.js, Node.js, Nest.js, Go, Rust, Crypto, Web3 | [link](https://dmitrii-selikhov.vercel.app) | [link](https://www.linkedin.com/in/dimetrix) | [link](https://github.com/idimetrix) | [link](https://x.com/idimetrix) | [link](https://dmitrii-selikhov.vercel.app) | [link](https://npmjs.com/~dimetrix) |
+| Dmitrii Selikhov | CTO, Software Architect, Technical Lead (15 years) | React.js, Next.js, Vue.js, Nuxt.js, Node.js, Nest.js, Go, Rust, Crypto, Web3 | [link](https://dmitrii-selikhov.vercel.app) | [link](https://www.linkedin.com/in/dimetrix) | [link](https://github.com/idimetrix) | [link](https://x.com/idimetrix) | [link](https://dmitrii-selikhov.vercel.app) | [link](https://npmjs.com/~dimetrix) |
 |                  |                                                    |                                                                             |                                             |                                              |                                      |                                 |                                             |                                     |
 
 ## Full_Stack
 
 | Name             | Position                                     | Skills (up to 10)                                                           | CV/Resume                                   | LinkedIn                                                    | GitHub                               | Twitter                         | Portfolio                                   | NPM                                 |
 | ---------------- | -------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------- | ----------------------------------------------------------- | ------------------------------------ | ------------------------------- | ------------------------------------------- | ----------------------------------- |
-| Dmitrii Selikhov | Lead Full-Stack software engineer (15 years) | Rect.js, Next.js, Vue.js, Nuxt.js, Node.js, Nest.js, Go, Rust, Crypto, Web3 | [link](https://dmitrii-selikhov.vercel.app) | [link](https://www.linkedin.com/in/dimetrix)                | [link](https://github.com/idimetrix) | [link](https://x.com/idimetrix) | [link](https://dmitrii-selikhov.vercel.app) | [link](https://npmjs.com/~dimetrix) |
+| Dmitrii Selikhov | Lead Full-Stack software engineer (15 years) | React.js, Next.js, Vue.js, Nuxt.js, Node.js, Nest.js, Go, Rust, Crypto, Web3 | [link](https://dmitrii-selikhov.vercel.app) | [link](https://www.linkedin.com/in/dimetrix)                | [link](https://github.com/idimetrix) | [link](https://x.com/idimetrix) | [link](https://dmitrii-selikhov.vercel.app) | [link](https://npmjs.com/~dimetrix) |
 | Tenoy Wilson     | Full-Stack software engineer (4+ years)      | React.js, Next.js, Vue.js, Node.js, C#, Go, C++,Python, Web3                |                                             | [link](https://www.linkedin.com/in/tenoy-wilson-9a206894)   | [link](https://github.com/Tenoywil)  |                                 |                                             |                                     |
 | Ayush Dwivedi    | Full Stack Developer (4+ years)              | React.js, Next.js, Express.js, TypeScript, Solidity                         |                                             | [link](https://www.linkedin.com/in/ayush-dwivedi-b8351b221) | [link](https://github.com/AmAyush18) |                                 | [link](https://ayush-dwivedi.netlify.app)   |                                     |
 
@@ -47,7 +47,7 @@
 
 | Name | Position | Skills (up to 10) | CV/Resume | LinkedIn | GitHub | Twitter | Portfolio | NPM |
 | ---- | -------- | ----------------- | --------- | -------- | ------ | ------- | --------- | --- |
-|      |          |                   |           |          |        |         |           |     |
+| San Monico | Back-End Developer, Technical Lead (10 years) | Node.js, Express, PostgreSQL, Sequelize, MongoDB, OpenTelemetry, GitLab CI, TypeScript, _Agnostic_ Cloud |    | [link](https://www.linkedin.com/in/sanmonico/) | [link](https://github.com/ReDemoNBR) |        |         |           |
 
 ## Blockchain
 
