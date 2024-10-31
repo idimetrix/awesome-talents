@@ -49,6 +49,7 @@
 | Name | Position | Skills (up to 10) | CV/Resume | LinkedIn | GitHub | Twitter | Portfolio | NPM |
 | ---- | -------- | ----------------- | --------- | -------- | ------ | ------- | --------- | --- |
 | San Monico | Back-End Developer, Technical Lead (10 years) | Node.js, Express, PostgreSQL, Sequelize, MongoDB, OpenTelemetry, GitLab CI, TypeScript, _Agnostic_ Cloud |    | [link](https://www.linkedin.com/in/sanmonico/) | [link](https://github.com/ReDemoNBR) |        |         |           |
+| Yash Jaiswal | Back-End Developer (Fresher) | Golang, TypeScript, JavaScript, MongoDB, MySQL, PostgreSQL, Redis, Python, AWS, C++ | [link](https://drive.google.com/file/d/1aybkKNvj1A5CTIcyvVb5DwExDWzGk48J/view?usp=sharing) | [link](https://linkedin.com/in/bitorsic) | [link](https://github.com/bitorsic) | | | |
 
 ## Blockchain
 
