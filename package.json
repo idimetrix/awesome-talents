@@ -1,7 +1,7 @@
 {
   "name": "awesome-talents",
-  "description": "Explore top talents worldwide.",
-  "version": "1.0.0",
+  "description": "A curated list of top talents worldwide - developers, engineers, and technical professionals.",
+  "version": "1.1.0",
   "license": "MIT",
   "author": {
     "name": "Dmitrii Selikhov",
@@ -15,31 +15,50 @@
       "url": "https://www.linkedin.com/in/dimetrix"
     }
   ],
-  "email": "dmitrii.selikhov@gmail.com",
   "homepage": "https://github.com/idimetrix/awesome-talents#readme",
-  "url": "https://github.com/idimetrix/awesome-talents/issue",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idimetrix/awesome-talents.git"
+  },
   "bugs": {
     "url": "https://github.com/idimetrix/awesome-talents/issues"
   },
-  "keywords": [],
+  "keywords": [
+    "awesome",
+    "talents",
+    "developers",
+    "engineers",
+    "programming",
+    "software-engineers",
+    "full-stack",
+    "frontend",
+    "backend",
+    "blockchain",
+    "cto",
+    "tech-talents",
+    "worldwide",
+    "curated-list"
+  ],
   "files": [
     "package.json",
     "README.md"
   ],
-  "main": "index.js",
   "scripts": {
     "format": "prettier --write README.md",
+    "format:check": "prettier --check README.md",
     "prepare": "husky install",
     "pre-commit": "lint-staged",
     "pre-push": "lint-staged",
-    "lint-staged": "lint-staged"
+    "lint-staged": "lint-staged",
+    "test": "npm run format:check",
+    "prepublishOnly": "npm test"
   },
   "dependencies": {
-    "prettier": "3.3.3"
+    "prettier": "^3.6.2"
   },
   "devDependencies": {
-    "husky": "9.1.6",
-    "lint-staged": "15.2.10"
+    "husky": "^9.1.7",
+    "lint-staged": "^16.2.0"
   },
   "lint-staged": {
     "**/*": [
